@@ -14,6 +14,8 @@
 		DC73765B2A2B4822007FB078 /* KitapciApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DC7376592A2B4822007FB078 /* KitapciApp.xcdatamodeld */; };
 		DC73765D2A2B4823007FB078 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC73765C2A2B4823007FB078 /* Assets.xcassets */; };
 		DC7376602A2B4823007FB078 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC73765E2A2B4823007FB078 /* LaunchScreen.storyboard */; };
+		DC7376682A2B4AD9007FB078 /* KayitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7376672A2B4AD9007FB078 /* KayitViewController.swift */; };
+		DC73766A2A2B9C75007FB078 /* KitapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7376692A2B9C75007FB078 /* KitapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		DC73765C2A2B4823007FB078 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC73765F2A2B4823007FB078 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC7376612A2B4823007FB078 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC7376672A2B4AD9007FB078 /* KayitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KayitViewController.swift; sourceTree = "<group>"; };
+		DC7376692A2B9C75007FB078 /* KitapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KitapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				DC7376502A2B4822007FB078 /* AppDelegate.swift */,
 				DC7376522A2B4822007FB078 /* SceneDelegate.swift */,
 				DC7376542A2B4822007FB078 /* ViewController.swift */,
+				DC7376672A2B4AD9007FB078 /* KayitViewController.swift */,
+				DC7376692A2B9C75007FB078 /* KitapViewController.swift */,
 				DC7376562A2B4822007FB078 /* Main.storyboard */,
 				DC73765C2A2B4823007FB078 /* Assets.xcassets */,
 				DC73765E2A2B4823007FB078 /* LaunchScreen.storyboard */,
@@ -143,6 +149,8 @@
 			files = (
 				DC7376552A2B4822007FB078 /* ViewController.swift in Sources */,
 				DC73765B2A2B4822007FB078 /* KitapciApp.xcdatamodeld in Sources */,
+				DC73766A2A2B9C75007FB078 /* KitapViewController.swift in Sources */,
+				DC7376682A2B4AD9007FB078 /* KayitViewController.swift in Sources */,
 				DC7376512A2B4822007FB078 /* AppDelegate.swift in Sources */,
 				DC7376532A2B4822007FB078 /* SceneDelegate.swift in Sources */,
 			);
